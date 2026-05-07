@@ -1,4 +1,4 @@
-# İK Karar Motoru (AI HR Decision Engine)
+# İK Karar Motoru (Build With AI Türkiye - Google Developers Communities Turkey)
 
 **İK Karar Motoru**, işe alım süreçlerini hızlandırmak ve optimize etmek amacıyla geliştirilmiş yapay zeka destekli bir web uygulamasıdır. Kullanıcıların girdiği iş tanımlarını ve dinamik olarak eklenen aday profillerini **Google Gemini API** kullanarak analiz eder; ardından tamamen nesnel, verilere dayalı bir değerlendirme ve artı-eksi tablosu sunarak İnsan Kaynakları profesyonellerine en doğru adayı seçmelerinde yardımcı olur.
 
